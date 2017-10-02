@@ -13,3 +13,9 @@ Sebastian Bank, 2017. Assessing the typology of person portmanteaus. *Morphology
 |                   | 9ba5dbcef0c6b163298098fd9940b31bf4757d391c979e9976c8139c5a3ded32 |
 | esm3-analyses.csv | machine-readable affix occurrences                               |
 |                   | 6e6389a913cc01020d03ac16217bc1c63c9d0e16b78179b4c931741c0d5a69cf |
+
+## Jupyter notebooks used for data analysis
+
+- https://nbviewer.jupyter.org/github/xflr6/notebooks/blob/master/Portmanteaus.ipynb
+- https://nbviewer.jupyter.org/github/xflr6/notebooks/blob/master/Nonportmanteaus.ipynb
+- https://nbviewer.jupyter.org/github/xflr6/notebooks/blob/master/PortmanteausSample.ipynb
