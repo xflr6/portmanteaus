@@ -5,6 +5,8 @@ Sebastian Bank, 2017. Assessing the typology of person portmanteaus. *Morphology
 
 ## Supplementary material
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.841982.svg)](https://doi.org/10.5281/zenodo.841982)
+
 | filename          | description, sha256
 |-------------------|------------------------------------------------------------------|
 | esm1-overview.pdf | overview of (non-)portmanteau occurrences                        |
