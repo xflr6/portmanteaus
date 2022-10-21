@@ -18,6 +18,6 @@ Sebastian Bank, 2017. Assessing the typology of person portmanteaus. *Morphology
 
 ## Jupyter notebooks used for data analysis
 
-- https://nbviewer.jupyter.org/github/xflr6/notebooks/blob/master/Portmanteaus.ipynb
-- https://nbviewer.jupyter.org/github/xflr6/notebooks/blob/master/Nonportmanteaus.ipynb
-- https://nbviewer.jupyter.org/github/xflr6/notebooks/blob/master/PortmanteausSample.ipynb
+- https://nbviewer.org/github/xflr6/notebooks/blob/master/Portmanteaus.ipynb
+- https://nbviewer.org/github/xflr6/notebooks/blob/master/Nonportmanteaus.ipynb
+- https://nbviewer.org/github/xflr6/notebooks/blob/master/PortmanteausSample.ipynb
